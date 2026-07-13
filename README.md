@@ -52,3 +52,12 @@ Run `npm run dev` to start the development server.
 ## Status
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
+
+## Local Development
+
+```bash
+npm install
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) to see the app.
