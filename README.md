@@ -43,3 +43,12 @@ This is a Next.js boilerplate demo project for testing and development purposes.
 
 Run `npm run dev` to start the development server.
 
+
+## Status
+
+![Build](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
+
+
+## Status
+
+![Build](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
