@@ -1,14 +1,16 @@
-# Contributing Guidelines
+# Contributing
 
-Thank you for your interest in contributing to this project!
+Thanks for your interest in contributing!
 
-## How to Contribute
+## Getting Started
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
+1. Fork the repo
+2. Create a branch: `git checkout -b feat/your-feature`
+3. Make your changes and commit
+4. Open a Pull Request
 
-## Code of Conduct
+## Code Style
 
-Please be respectful and constructive in all interactions.
+- Use TypeScript
+- Follow ESLint rules (`npm run lint`)
+- Keep PRs small and focused
